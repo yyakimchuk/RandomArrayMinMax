@@ -1,0 +1,2 @@
+# RandomArrayMinMax
+задание4
